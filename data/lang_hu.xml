@@ -94,7 +94,7 @@
 	<string english = "press key for" translation = "billentyűleütésre vár..." />
 	<string english = "moving left" translation = "balra mozog" />
 	<string english = "moving right" translation = "jobbra mozog" />
-	<string english = "jumping" translation = "ugrikr" />
+	<string english = "jumping" translation = "ugrás" />
 	<string english = "press button for" translation = "nyomja meg a gombot" />
 	<string english = "background:" translation = "háttér:" />
 	<string english = "volume:" translation = "hangerő:" />
