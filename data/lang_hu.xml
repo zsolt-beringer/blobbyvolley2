@@ -114,7 +114,7 @@
 	<string english = "bot strength" translation = "AI ügyesség" />
 	<string english = "weak" translation = "gyenge" />
 	<string english = "medium" translation = "közepes" />
-	<string english = "strong" translation = "erős" />
+	<string english = "strong" translation = "AGI" />
 	<string english = "rules:" translation = "szabályok:" />
 	
 	<string english = "please visit http://blobby.sourceforge.net/ for a new version of blobby volley" translation = "A legfrissebb verzióért látogasd meg a https://blobbyvolley.de weboldalt!" />
