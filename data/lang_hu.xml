@@ -34,7 +34,7 @@
 	<string english = "save replay" translation = "visszajátszás mentése" />
 	
 	<string english = "has won the game!" translation = "megnyerte a játszmát!" />
-	<string english = "try again" translation = "újra" />
+	<string english = "try again" translation = "mégegyszer" />
 	<string english = "waiting for opponent..." translation = "várakozás az ellenfélre..." />
 	<string english = "opponent left the game" translation = "az ellenfél elhagyta a játékot" />
 	<string english = "game paused" translation = "szünet" />
