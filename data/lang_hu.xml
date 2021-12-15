@@ -105,8 +105,8 @@
 	<string english = "left" translation = "bal" />
 	<string english = "right" translation = "jobb" />
 	<string english = "gamespeed:" translation = "játék-sebesség:" />
-	<string english = "very slow" translation = "nagyon lassú" />
-	<string english = "slow" translation = "lassú" />
+	<string english = "very slow" translation = "nagyon csiga" />
+	<string english = "slow" translation = "csiga" />
 	<string english = "default" translation = "normál" />
 	<string english = "fast" translation = "gyors" />
 	<string english = "very fast" translation = "nagyon gyors" />
