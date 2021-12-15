@@ -23,7 +23,7 @@
 	<string english = "play" translation = "játék" />
 	<string english = "delete" translation = "töröl" />
 	<string english = "info" translation = "információ" />
-	<string english = "duration:" translation = "eltelt idő:" />
+	<string english = "duration:" translation = "meccs hossza:" />
 	<string english = "result:" translation = "eredmény:" />
 	<string english = "checksum error" translation = "ellenőrző összeg hiba" />
 	<string english = "file is corrupt" translation = "a fájl hibás" />
