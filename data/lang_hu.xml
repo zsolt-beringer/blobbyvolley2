@@ -104,7 +104,7 @@
 	<string english = "network side:" translation = "hálózati oldal" />
 	<string english = "left" translation = "bal" />
 	<string english = "right" translation = "jobb" />
-	<string english = "gamespeed:" translation = "játék-sebesség:" />
+	<string english = "gamespeed:" translation = "játéksebesség:" />
 	<string english = "very slow" translation = "nagyon csiga" />
 	<string english = "slow" translation = "csiga" />
 	<string english = "default" translation = "normál" />
