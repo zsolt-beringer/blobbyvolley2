@@ -49,7 +49,7 @@
 	<string english = "disconnected from server" translation = "lecsatlakozva a kiszolgálóról" />
 	<string english = "connection failed" translation = "a kapcsolódás sikertelen" />
 	<string english = "server full" translation = "a kiszolgáló megtelt" />
-	<string english = " by " translation = "by " />
+	<string english = " by " translation = "–" />
 	<string english = "challenger: " translation = "kihívó: " />
 	<string english = "games: " translation = "játékok: " />
 	<string english = "random" translation = "véletlenszerű" />
@@ -100,7 +100,7 @@
 	<string english = "volume:" translation = "hangerő:" />
 	<string english = "mute" translation = "elnémít" />
 	<string english = "show fps" translation = "fps mutatása" />
-	<string english = "show blood" translation = "vér mutatása" />
+	<string english = "show blood" translation = "vér megjelenítése" />
 	<string english = "network side:" translation = "hálózati oldal" />
 	<string english = "left" translation = "bal" />
 	<string english = "right" translation = "jobb" />
