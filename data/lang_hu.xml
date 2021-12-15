@@ -12,7 +12,7 @@
 	<string english = "start" translation = "kezdés" />
 	<string english = "options" translation = "beállítások" />
 	<string english = "watch replay" translation = "visszajátsás megtekintése" />
-	<string english = "credits" translation = "készítők" />
+	<string english = "credits" translation = "készítok" />
 	<string english = "exit" translation = "kilép" />
 	
 	<string english = "programmers:" translation = "programozók:" />
@@ -111,7 +111,7 @@
 	<string english = "fast" translation = "gyors" />
 	<string english = "very fast" translation = "nagyon gyors" />
 	<string english = "language" translation = "nyelv" />
-	<string english = "bot strength" translation = "AI erősség" />
+	<string english = "bot strength" translation = "AI ügyesség" />
 	<string english = "weak" translation = "gyenge" />
 	<string english = "medium" translation = "közepes" />
 	<string english = "strong" translation = "erős" />
