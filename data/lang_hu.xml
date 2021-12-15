@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<language>
+	<string english = "ok" translation = "ok" />
+	<string english = "cancel" translation = "mégsem" />
+	<string english = "yes" translation = "igen" />
+	<string english = "no" translation = "nem" />
+	<string english = "really quit?" translation = "Biztos kilépsz?" />
+	<string english = "continue" translation = "folytatás" />
+	
+	<string english = "online game" translation = "online játék" />
+	<string english = "lan game" translation = "LAN party" />
+	<string english = "start" translation = "kezdés" />
+	<string english = "options" translation = "beállítások" />
+	<string english = "watch replay" translation = "visszajátsás megtekintése" />
+	<string english = "credits" translation = "készítők" />
+	<string english = "exit" translation = "kilép" />
+	
+	<string english = "programmers:" translation = "programozók:" />
+	<string english = "graphics:" translation = "grafikusok:" />
+	<string english = "special thanks at:" translation = "külön köszönet:" />
+	
+	<string english = "show again" translation = "újra mutat" />
+	<string english = "play" translation = "játék" />
+	<string english = "delete" translation = "töröl" />
+	<string english = "info" translation = "információ" />
+	<string english = "duration:" translation = "eltelt idő:" />
+	<string english = "result:" translation = "eredmény:" />
+	<string english = "checksum error" translation = "ellenőrző összeg hiba" />
+	<string english = "file is corrupt" translation = "a fájl hibás" />
+	<string english = "version error" translation = "verzió eltérés" />
+	<string english = "file is outdated" translation = "elavult fájl" />
+	<string english = "receiving replay..." translation = "visszajátszás fogadása..." />
+	<string english = "name of the replay:" translation = "visszajátszás neve:" />
+	<string english = "save replay" translation = "visszajátszás mentése" />
+	
+	<string english = "has won the game!" translation = "megnyerte a játszmát!" />
+	<string english = "try again" translation = "újra" />
+	<string english = "waiting for opponent..." translation = "várakozás az ellenfélre..." />
+	<string english = "opponent left the game" translation = "az ellenfél elhagyta a játékot" />
+	<string english = "game paused" translation = "szünet" />
+	<string english = "quit" translation = "kilép" />
+	
+	<string english = "scan for servers" translation = "kiszolgálók keresése" />
+	<string english = "direct connect" translation = "közvetlen kapcsolódás" />
+	<string english = "server info" translation = "kiszolgáló adatai" />
+	<string english = "waiting player: " translation = "várakozó játékosok:" />
+	<string english = "host game" translation = "kiszolgáló létrehozása" />
+	<string english = "connecting to server ..." translation = "kapcsolódás a kiszolgálóhoz..." />
+	<string english = "disconnected from server" translation = "lecsatlakozva a kiszolgálóról" />
+	<string english = "connection failed" translation = "a kapcsolódás sikertelen" />
+	<string english = "server full" translation = "a kiszolgáló megtelt" />
+	<string english = " by " translation = "by " />
+	<string english = "challenger: " translation = "kihívó: " />
+	<string english = "games: " translation = "játékok: " />
+	<string english = "random" translation = "véletlenszerű" />
+	<string english = "rules: " translation = "szabályok: " />
+	<string english = "speed: " translation = "sebesség: " />
+	<string english = "stay on server" translation = "a kiszolgálón maradok" />
+	<string english = "join game" translation = "belépés a játékba" />
+	<string english = "leave game" translation = "a kiszolgáló elhagyása" />
+	<string english = "open game" translation = "a játék megnyitása" />
+	<string english = "points: " translation = "pontok:" />
+	
+	<string english = "touch input type:" translation = "taktilis beviteli eszköz:" />
+	<string english = "arrow keys" translation = "irány gombok" />
+	<string english = "blobby follows finger" translation = "blobby követi az ujjakat" />
+	<string english = "input options" translation = "beviteli beállítások" />
+	<string english = "graphic options" translation = "grafikai beállítások" />
+	<string english = "misc options" translation = "egyéb beállítások" />
+	<string english = "video settings" translation = "videó beállítások" />
+	<string english = "fullscreen mode" translation = "teljes képernyős mód" />
+	<string english = "window mode" translation = "ablak mód" />
+	<string english = "render device" translation = "A grafikai beállítások megváltoztatása" />
+	<string english = "show shadow" translation = "árnyék mutatása" />
+	<string english = "blob colors" translation = "paca színek" />
+	<string english = "left player" translation = "bal játékos" />
+	<string english = "right player" translation = "jobb játékos" />
+	
+	<string english = "red" translation = "piros" />
+	<string english = "green" translation = "zöld" />
+	<string english = "blue" translation = "kék" />
+	<string english = "morphing blob?" translation = "színváltó paca" />
+	<string english = "keyboard" translation = "billentyűzet" />
+	<string english = "mouse" translation = "egér" />
+	<string english = "joystick" translation = "joystick" />
+	<string english = "jump button" translation = "ugrás gomb" />
+	<string english = "set all" translation = "mindet beállít" />
+	<string english = "left key" translation = "balra" />
+	<string english = "right key" translation = "jobbra" />
+	<string english = "jump key" translation = "ugrás gomb" />
+	<string english = "left button" translation = "balra gomb" />
+	<string english = "right button" translation = "jobbra gomb" />
+	<string english = "press mouse button for" translation = "egérnyomásra vár..." />
+	<string english = "press key for" translation = "billentyűleütésre vár..." />
+	<string english = "moving left" translation = "balra mozog" />
+	<string english = "moving right" translation = "jobbra mozog" />
+	<string english = "jumping" translation = "ugrikr" />
+	<string english = "press button for" translation = "nyomja meg a gombot" />
+	<string english = "background:" translation = "háttér:" />
+	<string english = "volume:" translation = "hangerő:" />
+	<string english = "mute" translation = "elnémít" />
+	<string english = "show fps" translation = "fps mutatása" />
+	<string english = "show blood" translation = "vér mutatása" />
+	<string english = "network side:" translation = "hálózati oldal" />
+	<string english = "left" translation = "bal" />
+	<string english = "right" translation = "jobb" />
+	<string english = "gamespeed:" translation = "játék-sebesség:" />
+	<string english = "very slow" translation = "nagyon lassú" />
+	<string english = "slow" translation = "lassú" />
+	<string english = "default" translation = "normál" />
+	<string english = "fast" translation = "gyors" />
+	<string english = "very fast" translation = "nagyon gyors" />
+	<string english = "language" translation = "nyelv" />
+	<string english = "bot strength" translation = "AI erősség" />
+	<string english = "weak" translation = "gyenge" />
+	<string english = "medium" translation = "közepes" />
+	<string english = "strong" translation = "erős" />
+	<string english = "rules:" translation = "szabályok:" />
+	
+	<string english = "please visit http://blobby.sourceforge.net/ for a new version of blobby volley" translation = "A legfrissebb verzióért látogasd meg a https://blobbyvolley.de weboldalt!" />
+</language>
