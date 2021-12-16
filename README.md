@@ -1,10 +1,12 @@
 # Blobby Volley 2 [![Build Status](https://travis-ci.org/danielknobe/blobbyvolley2.svg?branch=master)](https://travis-ci.org/danielknobe/blobbyvolley2)
 **The head-to-head multiplayer ball game**
 
+[![CMake](https://github.com/zsolt-beringer/blobbyvolley2/actions/workflows/cmake.yml/badge.svg)](https://github.com/zsolt-beringer/blobbyvolley2/actions/workflows/cmake.yml)
+
 ### Website
  http://blobby.sourceforge.net
 
- http://blobbyvolley.de
+ https://blobbyvolley.de
 
 ### System requirements
 Either Windows 2000 or later, Linux or MacOS
