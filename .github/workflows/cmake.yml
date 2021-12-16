@@ -32,7 +32,6 @@ jobs:
     - name: Build
       # Build your program with the given configuration
       run: cmake --build ${{github.workspace}} --config ${{env.BUILD_TYPE}}
-      path: src/blobby
       
     - name: Test
       working-directory: ${{github.workspace}}
